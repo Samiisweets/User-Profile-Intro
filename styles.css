@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+}
+.hobbies, .bands, .languages {
+    font-family: Arial;
+}
+.cyan {
+    color: cyan;
+}
+.hobbies-sec, .languages-sec {
+    background-color: green;
+}
+#strike {
+    text-decoration: line-through;
+}
