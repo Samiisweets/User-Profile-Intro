@@ -9,6 +9,7 @@
 }
 .hobbies-sec, .languages-sec {
     background-color: green;
+    color: white;
 }
 #strike {
     text-decoration: line-through;
